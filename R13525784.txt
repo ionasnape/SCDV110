@@ -1,0 +1,92 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13525784
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           Health Data 2023 Release
+Dataset:          Health Data 2023
+Tables:
+
+      1. Physical Environment
+         Universe:  
+         Name:      T16
+         Variables:
+            T016_001:   Air Pollution Particulate Matter Average Daily Pm2.5
+            T016_002:   Presence of Drinking Water Violations
+            T016_003:   Percentage of Households with Severe Housing Problems
+            T016_004:   Percentage of Households with High Housing Costs
+            T016_005:   Percentage of Households with Overcrowding
+            T016_006:   Percentage of Households with Lack of Kitchen or Plumbing Facilities
+            T016_007:   Percent of Driving Alone to Work
+            T016_008:   Long Commute Driving Alone Workers Who Drive Alone
+            T016_009:   Percent of Long Commute Driving Alone Workers Who Drive Alone
+
+
+      2. Quality of Life
+         Universe:  
+         Name:      T1
+         Variables:
+            T001_001:   Physically Unhealthy Days per Month
+            T001_002:   Mentally Unhealthy Days per Month
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      NATION:         Nation
+      STATE:          State
+      COUNTY:         County
+      T016_001:       Air Pollution Particulate Matter Average Daily Pm2.5
+      T016_002:       Presence of Drinking Water Violations
+      T016_003:       Percentage of Households with Severe Housing Problems
+      T016_004:       Percentage of Households with High Housing Costs
+      T016_005:       Percentage of Households with Overcrowding
+      T016_006:       Percentage of Households with Lack of Kitchen or Plumbing Facilities
+      T016_007:       Percent of Driving Alone to Work
+      T016_008:       Long Commute Driving Alone Workers Who Drive Alone
+      T016_009:       Percent of Long Commute Driving Alone Workers Who Drive Alone
+      T001_001:       Physically Unhealthy Days per Month (Persons 18 Years and Over)
+      T001_002:       Mentally Unhealthy Days per Month (Persons 18 Years and Over)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2023
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13525784
+
+If you have any questions contact info@socialexplorer.com
